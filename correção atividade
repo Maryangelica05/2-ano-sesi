@@ -1,0 +1,68 @@
+<html>
+<head>
+  <title>Maria</title>
+</head>
+<style>
+  h1 {
+    color: rgb(4, 138, 98);
+  }
+
+  body {
+    background: #bbc2b6da;
+  }
+  
+ .texto-vermelho {
+  color : rgb(117, 168, 35);
+ }
+ .texto-amarelo {
+  color: rgb(0, 153, 255);
+ }
+
+ h2{
+  color: rgb(23, 105, 129);
+ }
+ h3{ 
+  color: rgb(22, 67, 134);
+ }
+
+ li{ 
+  color: rgb(48, 14, 38);
+ }
+</style>
+<body>
+  <h1 id="titulo-texto"> Maria Angélica de Freitas</h1>
+  <p> 2 ano A</p>
+  <p> faço parte da equipe 03</p>
+  <p>
+    tenho 16 anos
+    <br>moro em Apucarana, desde sempre
+
+    <br> ingressei no colégio desde o ano passado
+
+    <br>gosto de assistir filmes 
+
+    <br> está sendo interessande aprender uma nova matéria
+  </p>
+  <ul>
+    <li> gosto de viajar </li>
+    <li> e escutar musica  no caminho</li>
+    <li> gosto de livros e  meus gêneros favoritos são romances e fantasia </li>   
+  </ul>
+  <h2>Minha euipe é composta por os seguintes alunos, no 1 trimestre:</h2>
+  <ul>
+    <li class="feminino">LUANA</li>
+    <li CLASS="feminino">MARIA EDUARDA</li>
+    <li class="masculino">EDUARDO</li>
+    <li class="masculino">JOABE</li>
+    <li class= "masculino"> LUCAS</li>    
+  </ul>
+  <h3> equipe nova </h3>
+  <p> style="color: rgb(182, 18, 76);" > Emanuele</p>
+  <p> style=" color: rgb(170, 49, 49);>  Luana <p>>
+  <p style="color blue> Arthur</p>
+  <p style=""color blue 
+  <p style="color: > Vitor
+  <button onclick="clikbotao()" id="botao">click</button>"
+</body>
+<script src="js/main.js"></script>
+</html>
